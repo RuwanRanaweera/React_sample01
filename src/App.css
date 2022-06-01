@@ -3,6 +3,7 @@
   background: lightblue;
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 .tweet{
   border-radius: 30px;
@@ -14,4 +15,10 @@
   justify-content: space-around;
   align-items: center;
 
+}
+
+.red{
+  
+color: red;
+font-size: 50px;
 }
