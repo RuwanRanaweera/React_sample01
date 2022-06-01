@@ -1,0 +1,17 @@
+.app {
+  min-height:100vh;
+  background: lightblue;
+  display: flex;
+  justify-content: space-around;
+}
+.tweet{
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  width: 300px;
+  background: white;
+  justify-content: space-around;
+  align-items: center;
+
+}
